@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStoreTests", "DataStoreTests\DataStoreTests.csproj", "{37845503-F7ED-4E60-A93D-645165C1C9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanityTest", "SanityTest\SanityTest.csproj", "{22BE87DA-971C-491D-B0F8-423005A1D81C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37845503-F7ED-4E60-A93D-645165C1C9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37845503-F7ED-4E60-A93D-645165C1C9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37845503-F7ED-4E60-A93D-645165C1C9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37845503-F7ED-4E60-A93D-645165C1C9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22BE87DA-971C-491D-B0F8-423005A1D81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22BE87DA-971C-491D-B0F8-423005A1D81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22BE87DA-971C-491D-B0F8-423005A1D81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22BE87DA-971C-491D-B0F8-423005A1D81C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
